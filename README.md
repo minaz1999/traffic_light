@@ -42,11 +42,10 @@
 	این آزمایش نشان می‌دهد که می‌توان با استفاده از برد آردوینو و قطعات الکترونیکی ساده، مدارهای کاربردی و مفیدی را طراحی و پیاده‌سازی کرد.
 
 
-[on,off.pdf](https://github.com/user-attachments/files/19658905/on.off.pdf)
-![on,off](https://github.com/user-attachments/assets/0229de3c-3dce-4146-bead-5d5672b0f09f)
+
+[traffic light.pdf](https://github.com/user-attachments/files/19658938/traffic.light.pdf)
+![traffic light](https://github.com/user-attachments/assets/469a970c-9257-41c0-b5b1-02f4b4e76b62)
 
 
-https://github.com/user-attachments/assets/45003e06-d9ea-428a-9332-1a3ef55c69ff
-
-![4](https://github.com/user-attachments/assets/1b2d6b01-659d-4d1e-9e68-8a4229227a57)
+https://github.com/user-attachments/assets/b8e35b6d-279c-4911-8e76-17c57af6c96d
 
